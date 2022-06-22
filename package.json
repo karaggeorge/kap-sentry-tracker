@@ -8,6 +8,6 @@
     "typescript": "^3.9.6"
   },
   "dependencies": {
-    "got": "^11.3.0"
+    "got": "^11.8.5"
   }
 }
